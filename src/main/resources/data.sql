@@ -1,0 +1,1 @@
+INSERT INTO orders(date, cost) VALUES ('2024-02-24', 77.77);
